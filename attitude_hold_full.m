@@ -1,6 +1,6 @@
 
 %% ==========================================
-%  SPACECRAFT ATTITUDE CONTROL SIMULATION (Full Plots)
+%  SPACECRAFT ATTITUDE CONTROL SIMULATION 
 %  File: main.m
 %  - PD attitude hold with 4 reaction wheels
 %  - Robust shapes, logging, metrics
